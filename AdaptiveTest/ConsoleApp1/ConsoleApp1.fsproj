@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Entities.fs" />
+        <Compile Include="Test.fs" />
+        <Compile Include="QuestionsList.fs" />
+        <Compile Include="Results.fs" />
+        <Compile Include="Utils.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+</Project>
