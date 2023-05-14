@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b627fb6-bc77-4339-9039-d696f215e7aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Domain/Course/Rating.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domain/Student/Student.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp1/ConsoleApp1.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp2/ConsoleApp2.fsproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp1/Entities.fs" beforeDir="false" afterPath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp2/Entities.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp1/Program.fs" beforeDir="false" afterPath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp2/Program.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp1/QuestionsList.fs" beforeDir="false" afterPath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp2/QuestionsList.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp1/Results.fs" beforeDir="false" afterPath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp2/Results.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp1/Test.fs" beforeDir="false" afterPath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp2/Test.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp1/Utils.fs" beforeDir="false" afterPath="$PROJECT_DIR$/../AdaptiveTest/ConsoleApp2/Utils.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitalEdEnv2.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DigitalEdEnv2.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/Student/Student.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/Student/Unit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Course/Unit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/Test/Answer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Test/Answer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/Test/Question.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Test/Question.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/Test/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Test/Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/TestApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Domain.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PnCQdopDhEcd1O5YozUgsGh4Eh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b627fb6-bc77-4339-9039-d696f215e7aa" name="Changes" comment="" />
+      <created>1684083444732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684083444732</updated>
+      <workItem from="1684083447352" duration="13000" />
+      <workItem from="1684083891237" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
