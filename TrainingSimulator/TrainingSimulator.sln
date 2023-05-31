@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.fsproj", "{33242CCA-8C31-4EED-AE67-BF0B4EA66494}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TrainingSimulator", "TrainingSimulator\TrainingSimulator.fsproj", "{33242CCA-8C31-4EED-AE67-BF0B4EA66494}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
