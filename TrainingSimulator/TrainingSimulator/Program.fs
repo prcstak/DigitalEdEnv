@@ -65,7 +65,6 @@ module Main =
                     | 4 -> 0.7
                     | 3 -> 0.5
                     | _ -> failwith "todo"
-                printf $"{coef}"
                 let result = getLucky testState.user result1 result2 coef
                 printfn $"{testState.user} \n {result}"
             if testState.answer = 1
